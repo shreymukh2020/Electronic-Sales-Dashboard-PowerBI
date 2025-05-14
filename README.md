@@ -32,6 +32,8 @@ The Electronics Sales Dashboard analyzes electronics sales performance across US
  
  ➡️ Custom navigation panel to switch between metrics with ease
 
+ [!image](https://github.com/shreymukh2020/Electronic-Sales-Dashboard-PowerBI/blob/main/Electronic_Sales_Dashboard%20Linkedin.png)
+
 Link to the report: https://lnkd.in/eJvS8yVj
 
 🙌 Huge thanks again to Injae Park for his guidance and world-class Power BI training on skool.com/powerbipark — this project was another opportunity to apply his clear and structured design principles.

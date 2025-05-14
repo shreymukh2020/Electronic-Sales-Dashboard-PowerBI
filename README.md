@@ -3,7 +3,7 @@ Electronic Sales Dashboard PowerBI
 
 📊 Electronics Sales Dashboard | Regional Performance Analysis in Power BI
 
-Proud to share a Power BI dashboard I built to analyze electronics sales performance across US regions — providing a clear, side-by-side comparison of Sales, Profit, and Orders for the West, South, Northeast, and Midwest.
+The Electronics Sales Dashboard analyzes electronics sales performance across US regions — providing a clear, side-by-side comparison of Sales, Profit, and Orders for the West, South, Northeast, and Midwest.
 
 📌 What went into it:
  ✅ Created a custom dataset simulating regional electronics sales data

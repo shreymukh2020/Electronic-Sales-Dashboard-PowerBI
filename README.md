@@ -6,6 +6,7 @@ Electronic Sales Dashboard PowerBI
 The Electronics Sales Dashboard analyzes electronics sales performance across US regions — providing a clear, side-by-side comparison of Sales, Profit, and Orders for the West, South, Northeast, and Midwest.
 
 📌 What went into it:
+
  ✅ Created a custom dataset simulating regional electronics sales data
  
  ✅ Developed dynamic KPIs and applied Advanced DAX to calculate YoY growth and trends
@@ -32,7 +33,7 @@ The Electronics Sales Dashboard analyzes electronics sales performance across US
  
  ➡️ Custom navigation panel to switch between metrics with ease
 
- [!image](https://github.com/shreymukh2020/Electronic-Sales-Dashboard-PowerBI/blob/main/Electronic_Sales_Dashboard%20Linkedin.png)
+ ![image](https://github.com/shreymukh2020/Electronic-Sales-Dashboard-PowerBI/blob/main/Electronic_Sales_Dashboard%20Linkedin.png)
 
 Link to the report: https://lnkd.in/eJvS8yVj
 
